@@ -1,0 +1,53 @@
+.head{
+    color:white;
+    font-size:30px;
+}
+#nav1{
+    color:white;
+    margin-left:30px;
+margin-right:30px;
+}
+#nav3{
+    color:white;
+    margin-left:30px;
+margin-right:30px;
+}
+#nav2{
+    color:white;
+    margin-left:30px;
+margin-right:30px;
+}
+.bg{
+    background-image:url("https://img.freepik.com/premium-photo/top-view-dark-stylish-workplace-with-smartphone-office-supplies_67155-2963.jpg");
+    background-size:cover;
+    
+    padding:200px;
+}
+.card{
+    border-radius: 10px;
+    border-width:8px;
+    border-color:grey;
+    background-color: transparent;
+    height:300px;
+    width:500px;
+    margin-left:200px;
+    padding:20px;
+}
+.heading{
+    color:white;
+    font-size:30px;
+}
+.para{
+    color:white;
+    font-size:50px
+    
+}
+.about-me{
+    margin-top:70px;
+}
+.image{
+    height:300px;
+    width:300px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
